@@ -1,2 +1,2 @@
-# Library-Management-System
+# Library-Management-System(LMS)
 Library Management System with PHP/Codeigniter 
